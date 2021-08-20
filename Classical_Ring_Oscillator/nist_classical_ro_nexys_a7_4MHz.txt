@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
+------------------------------------------------------------------------------
+   generator is <../../receive0_nexys_classical_ro_4MHz.txt>
+------------------------------------------------------------------------------
+ C1  C2  C3  C4  C5  C6  C7  C8  C9 C10  P-VALUE  PROPORTION  STATISTICAL TEST
+------------------------------------------------------------------------------
+ 31  31  37  36  24  30  40  22  27  42  0.186566    314/320     Frequency
+124  35  31  26  20  19  10  13  17  25  0.000000 *  266/320  *  BlockFrequency
+ 35  34  27  34  30  31  25  39  35  30  0.839722    316/320     Runs
+ 29  36  34  33  27  36  36  22  34  33  0.739918    318/320     LongestRun
+222  38  18  12  12   5   4   4   3   2  0.000000 *  197/320  *  ApproximateEntropy
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The minimum pass rate for each statistical test with the exception of the
+random excursion (variant) test is approximately = 311 for a
+sample size = 320 binary sequences.
+
+For further guidelines construct a probability table using the MAPLE program
+provided in the addendum section of the documentation.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
