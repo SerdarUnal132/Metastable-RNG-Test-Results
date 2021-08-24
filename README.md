@@ -28,9 +28,9 @@ NIST 800-22, TestU01, and Dieharder test results for the RNG implemented for TCA
 #### Statistical test results for the data collected from Metastable Ring Oscillators design implemented on Basys 3 and Nexys A7 at different temperatures (0°C, 25°C, 80°C)
 
 [Temperature Tests](../../tree/main/Temperature_Tests)\
---- [Dieharder](../../tree/main/Temperature_Tests/0)\
---- [NIST 800-22](../../tree/main/Temperature_Tests/25)\
---- [TestU01](../../tree/main/Temperature_Tests/80)
+--- [0°C](../../tree/main/Temperature_Tests/0)\
+--- [25°C](../../tree/main/Temperature_Tests/25)\
+--- [80°C](../../tree/main/Temperature_Tests/80)
 
 #### Statistical test resuls for the data collected from Classical Ring Oscillator design implemented on Nexys A7 
 
