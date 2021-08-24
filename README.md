@@ -2,7 +2,7 @@
 
 # Metastable Random Number Generator Test Results
 
-NIST 800-22, TestU01, and Dieharder test results for the RNG implemented for TCAS2 paper "Compact High Throughput Random Number Generator Based on Metastable Ring Oscillators" written by Serdar Ünal and Salih Ergün.
+NIST 800-22, TestU01, and Dieharder test results for the RNG implemented for TCAS2 paper "Compact High Throughput Random Number Generator Based on Metastable Ring Oscillators" written by Serdar Unal and Salih Ergun.
 
 #### Statistical test results for the data collected from Metastable Ring Oscillators design implemented in Basys 3
 
@@ -34,7 +34,4 @@ NIST 800-22, TestU01, and Dieharder test results for the RNG implemented for TCA
 
 #### Statistical test resuls for the data collected from Classical Ring Oscillator design implemented in Nexys A7 
 
-[Classical Ring Oscillator](../../tree/main/Classical_Ring_Oscillator)\
---- [Dieharder](../../tree/main/Temperature_Tests/0)\
---- [NIST 800-22](../../tree/main/Temperature_Tests/25)\
---- [TestU01](../../tree/main/Temperature_Tests/80)
+[Classical Ring Oscillator](../../tree/main/Classical_Ring_Oscillator)
