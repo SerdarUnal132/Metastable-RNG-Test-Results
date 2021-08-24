@@ -22,7 +22,7 @@ Statistical test results for the data collected from ZedBoard
 --- [NIST 800-22](../../tree/main/ZedBoard/NIST_800-22)\
 --- [TestU01](../../tree/main/ZedBoard/TestU01)
 
-Statistical test results for the data collected from Basys 3 and Nexys A7 at different temperatures (0\xb0C, 25\xb0C, 80\xb0C)
+Statistical test results for the data collected from Basys 3 and Nexys A7 at different temperatures (0"\xb0"C, 25"\xb0"C, 80"\xb0"C)
 
 [Temperature Tests](../../tree/main/Temperature_Tests)\
 --- [Dieharder](../../tree/main/Temperature_Tests/0)\
